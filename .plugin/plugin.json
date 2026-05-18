@@ -1,0 +1,14 @@
+{
+  "name": "currents-agent-plugin",
+  "version": "0.1.0",
+  "description": "Open Plugin for Currents.dev",
+  "author": {
+    "name": "Currents.dev",
+    "email": "support@currents.dev",
+    "url": "https://currents.dev"
+  },
+  "logo": "assets/logo.png",
+  "repository": "https://github.com/currents-dev/agent-plugin",
+  "license": "MIT",
+  "keywords": ["currents", "playwright", "ci", "testing"]
+}
